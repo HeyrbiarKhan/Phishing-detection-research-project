@@ -1,0 +1,13 @@
+PHISHING DETECTION PROJECT - KEY STATISTICS
+==================================================
+
+Dataset Size: 440 samples
+Phishing Emails: 220
+Legitimate Emails: 220
+Average Email Length: 203 characters
+Average Word Count: 29 words
+Train-Test Split: 80%-20%
+Model Accuracy: 1.000 (100.0%)
+Precision: 1.000
+Recall: 1.000
+F1-Score: 1.000
